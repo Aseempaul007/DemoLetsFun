@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1031590777138",
+    "project_id": "demoletsfun",
+    "storage_bucket": "demoletsfun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031590777138:android:56868a7dc6d2fd7192c72b",
+        "android_client_info": {
+          "package_name": "com.example.demoletsfun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031590777138-j7cfts1n66og4nrh5ujtbjgbug5u3hvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE-57eOFtDQoC-Z4jD7GsGEmETe1gSXfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031590777138-j7cfts1n66og4nrh5ujtbjgbug5u3hvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
